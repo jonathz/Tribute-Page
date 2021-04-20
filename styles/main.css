@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#tribute-info{
+    display: flex;
+    justify-content: center;
+}
+.contenedor-info{
+max-width: 500px;
+}
+#image{
+    width: 40vw;
+}
+.img-footer{
+    
+    width: 8vw;
+    height: 10vh;
+         
+}
+footer{
+    display: flex;
+    color: black;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    
+}
+a:hover {
+    
+    box-shadow: inset -1px 3px 8px 5px #1F87FF;}
+
+.nombre,.social{
+    
+    width: 8vw;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
